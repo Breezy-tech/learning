@@ -7,4 +7,4 @@ if shower == "good":
 elif shower == "bad":
 	print(f"I'm sorry to hear that you shower was {shower}.")
 else:
-	print(f"Next time please pick good or bad!")
+	print(f"Next time please pick from the displayed options!")
